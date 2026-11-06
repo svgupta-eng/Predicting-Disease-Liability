@@ -1,0 +1,16 @@
+PLINK v2.0.0-b.1-dev M1 (7 Oct 2026)
+Options in effect:
+  --bfile 1000G.EUR.22.GeneX
+  --freq
+  --out 1000G.EUR.22.GeneX
+
+Hostname: Sanas-MacBook-Air.local
+Working directory: /Users/sana/dsc_180a/Predicting-Disease-Liability
+Start time: Fri Nov  6 13:42:07 2026
+
+Random number seed: 1794001327
+16384 MiB RAM detected; reserving 8192 MiB for main workspace.
+Using up to 8 compute threads.
+Error: Failed to open 1000G.EUR.22.GeneX.fam : No such file or directory.
+
+End time: Fri Nov  6 13:42:07 2026

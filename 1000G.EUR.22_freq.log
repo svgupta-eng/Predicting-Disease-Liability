@@ -1,0 +1,21 @@
+PLINK v2.0.0-b.1-dev M1 (7 Oct 2026)
+Options in effect:
+  --bfile 1000G.EUR.22
+  --freq
+  --out 1000G.EUR.22_freq
+
+Hostname: Sanas-MacBook-Air.local
+Working directory: /Users/sana/dsc_180a/Predicting-Disease-Liability
+Start time: Mon Nov  2 12:01:01 2026
+
+Random number seed: 1793649661
+16384 MiB RAM detected; reserving 8192 MiB for main workspace.
+Using up to 8 compute threads.
+489 samples (0 females, 0 males, 489 ambiguous; 489 founders) loaded from
+1000G.EUR.22.fam.
+17489 variants loaded from 1000G.EUR.22.bim.
+Note: No phenotype data present.
+Calculating allele frequencies... done.
+--freq: Allele frequencies (founders only) written to 1000G.EUR.22_freq.afreq .
+
+End time: Mon Nov  2 12:01:01 2026

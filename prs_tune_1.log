@@ -1,0 +1,16 @@
+PLINK v2.0.0-b.1-dev M1 (7 Oct 2026)
+Options in effect:
+  --bfile 1000G.EUR.22.GeneX
+  --extract prs_snps_1.txt
+  --keep tune_10.txt
+  --out prs_tune_1
+  --read-freq 1000G.EUR.22.GeneX.afreq
+  --score train_summary_stats.txt 1 2 3 header
+
+Hostname: Sanas-MacBook-Air.local
+Working directory: /Users/sana/dsc_180a/Predicting-Disease-Liability
+Start time: Fri Nov  6 13:42:07 2026
+
+Error: --read-freq: 1000G.EUR.22.GeneX.afreq does not exist.
+
+End time: Fri Nov  6 13:42:07 2026
