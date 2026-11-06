@@ -76,9 +76,9 @@ chmod +x ./plink2_folder/plink2
 ```
 
 ### Step 3: Run the Pipeline
-Launch JupyterLab and execute the analysis notebook (`checkpoint.ipynb`) sequentially from top to bottom:
+Launch JupyterNotebook and execute the analysis notebook (`checkpoint.ipynb`) sequentially from top to bottom:
 ```bash
-jupyter lab
+jupyter notebook
 ```
 
 ### Key Workflow Stages
